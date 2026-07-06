@@ -1,5 +1,13 @@
 [
   {
+    "id": "347",
+    "title": "Top K Frequent Elements",
+    "difficulty": "Medium",
+    "language": "java",
+    "path": "Medium\\347-top-k-frequent-elements",
+    "url": "https://leetcode.com/problems/top-k-frequent-elements/"
+  },
+  {
     "id": "1046",
     "title": "Last Stone Weight",
     "difficulty": "Easy",
