@@ -1,11 +1,43 @@
 [
   {
+    "id": "56",
+    "title": "Merge Intervals",
+    "difficulty": "Medium",
+    "language": "java",
+    "path": "Medium\\56-merge-intervals",
+    "url": "https://leetcode.com/problems/merge-intervals/"
+  },
+  {
     "id": "347",
     "title": "Top K Frequent Elements",
     "difficulty": "Medium",
     "language": "java",
     "path": "Medium\\347-top-k-frequent-elements",
     "url": "https://leetcode.com/problems/top-k-frequent-elements/"
+  },
+  {
+    "id": "435",
+    "title": "Non-overlapping Intervals",
+    "difficulty": "Medium",
+    "language": "java",
+    "path": "Medium\\435-non-overlapping-intervals",
+    "url": "https://leetcode.com/problems/non-overlapping-intervals/"
+  },
+  {
+    "id": "502",
+    "title": "IPO",
+    "difficulty": "Hard",
+    "language": "java",
+    "path": "Hard\\502-ipo",
+    "url": "https://leetcode.com/problems/ipo/"
+  },
+  {
+    "id": "692",
+    "title": "Top K Frequent Words",
+    "difficulty": "Medium",
+    "language": "java",
+    "path": "Medium\\692-top-k-frequent-words",
+    "url": "https://leetcode.com/problems/top-k-frequent-words/"
   },
   {
     "id": "1046",
