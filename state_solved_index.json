@@ -54,5 +54,13 @@
     "language": "java",
     "path": "Easy\\1046-last-stone-weight",
     "url": "https://leetcode.com/problems/last-stone-weight/"
+  },
+  {
+    "id": "1288",
+    "title": "Remove Covered Intervals",
+    "difficulty": "Medium",
+    "language": "java",
+    "path": "Medium\\1288-remove-covered-intervals",
+    "url": "https://leetcode.com/problems/remove-covered-intervals/"
   }
 ]
