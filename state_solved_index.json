@@ -62,5 +62,13 @@
     "language": "java",
     "path": "Medium\\1288-remove-covered-intervals",
     "url": "https://leetcode.com/problems/remove-covered-intervals/"
+  },
+  {
+    "id": "2379",
+    "title": "Minimum Recolors to Get K Consecutive Black Blocks",
+    "difficulty": "Easy",
+    "language": "java",
+    "path": "Easy\\2379-minimum-recolors-to-get-k-consecutive-black-blocks",
+    "url": "https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/"
   }
 ]
