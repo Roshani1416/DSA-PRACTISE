@@ -1,5 +1,13 @@
 [
   {
+    "id": "23",
+    "title": "Merge k Sorted Lists",
+    "difficulty": "Hard",
+    "language": "java",
+    "path": "Hard\\23-merge-k-sorted-lists",
+    "url": "https://leetcode.com/problems/merge-k-sorted-lists/"
+  },
+  {
     "id": "56",
     "title": "Merge Intervals",
     "difficulty": "Medium",
