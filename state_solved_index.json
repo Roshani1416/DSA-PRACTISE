@@ -16,6 +16,14 @@
     "url": "https://leetcode.com/problems/merge-intervals/"
   },
   {
+    "id": "125",
+    "title": "Valid Palindrome",
+    "difficulty": "Easy",
+    "language": "java",
+    "path": "Easy\\125-valid-palindrome",
+    "url": "https://leetcode.com/problems/valid-palindrome/"
+  },
+  {
     "id": "347",
     "title": "Top K Frequent Elements",
     "difficulty": "Medium",
