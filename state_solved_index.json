@@ -48,6 +48,14 @@
     "url": "https://leetcode.com/problems/ipo/"
   },
   {
+    "id": "509",
+    "title": "Fibonacci Number",
+    "difficulty": "Easy",
+    "language": "java",
+    "path": "Easy\\509-fibonacci-number",
+    "url": "https://leetcode.com/problems/fibonacci-number/"
+  },
+  {
     "id": "692",
     "title": "Top K Frequent Words",
     "difficulty": "Medium",
