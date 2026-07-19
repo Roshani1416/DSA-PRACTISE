@@ -6,6 +6,7 @@ Auto-synced by leetcode-github-agent.
 | # | Problem | Difficulty | Language | Solution |
 |---|---------|------------|----------|----------|
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | java | [Code](Hard\23-merge-k-sorted-lists) |
+| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | java | [Code](Medium\24-swap-nodes-in-pairs) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | java | [Code](Medium\56-merge-intervals) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | java | [Code](Easy\125-valid-palindrome) |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | java | [Code](Medium\347-top-k-frequent-elements) |

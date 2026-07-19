@@ -8,6 +8,14 @@
     "url": "https://leetcode.com/problems/merge-k-sorted-lists/"
   },
   {
+    "id": "24",
+    "title": "Swap Nodes in Pairs",
+    "difficulty": "Medium",
+    "language": "java",
+    "path": "Medium\\24-swap-nodes-in-pairs",
+    "url": "https://leetcode.com/problems/swap-nodes-in-pairs/"
+  },
+  {
     "id": "56",
     "title": "Merge Intervals",
     "difficulty": "Medium",
