@@ -9,6 +9,7 @@ Auto-synced by leetcode-github-agent.
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | java | [Code](Medium\24-swap-nodes-in-pairs) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | java | [Code](Medium\56-merge-intervals) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | java | [Code](Easy\125-valid-palindrome) |
+| 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | java | [Code](Medium\328-odd-even-linked-list) |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | java | [Code](Medium\347-top-k-frequent-elements) |
 | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | Medium | java | [Code](Medium\435-non-overlapping-intervals) |
 | 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | Medium | java | [Code](Medium\452-minimum-number-of-arrows-to-burst-balloons) |
