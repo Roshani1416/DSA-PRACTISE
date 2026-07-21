@@ -5,6 +5,7 @@ Auto-synced by leetcode-github-agent.
 <!-- LEETCODE-TABLE-START -->
 | # | Problem | Difficulty | Language | Solution |
 |---|---------|------------|----------|----------|
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | java | [Code](Medium\22-generate-parentheses) |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | java | [Code](Hard\23-merge-k-sorted-lists) |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | java | [Code](Medium\24-swap-nodes-in-pairs) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | java | [Code](Medium\56-merge-intervals) |
