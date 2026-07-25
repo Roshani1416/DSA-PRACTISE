@@ -40,6 +40,14 @@
     "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/"
   },
   {
+    "id": "86",
+    "title": "Partition List",
+    "difficulty": "Medium",
+    "language": "java",
+    "path": "Medium\\86-partition-list",
+    "url": "https://leetcode.com/problems/partition-list/"
+  },
+  {
     "id": "125",
     "title": "Valid Palindrome",
     "difficulty": "Easy",

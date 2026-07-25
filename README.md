@@ -10,6 +10,7 @@ Auto-synced by leetcode-github-agent.
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | java | [Code](Medium\24-swap-nodes-in-pairs) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | java | [Code](Medium\56-merge-intervals) |
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | Medium | java | [Code](Medium\82-remove-duplicates-from-sorted-list-ii) |
+| 86 | [Partition List](https://leetcode.com/problems/partition-list/) | Medium | java | [Code](Medium\86-partition-list) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | java | [Code](Easy\125-valid-palindrome) |
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | java | [Code](Medium\328-odd-even-linked-list) |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | java | [Code](Medium\347-top-k-frequent-elements) |
