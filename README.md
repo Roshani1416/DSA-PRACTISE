@@ -5,6 +5,7 @@ Auto-synced by leetcode-github-agent.
 <!-- LEETCODE-TABLE-START -->
 | # | Problem | Difficulty | Language | Solution |
 |---|---------|------------|----------|----------|
+| 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | java | [Code](Medium\17-letter-combinations-of-a-phone-number) |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | java | [Code](Medium\22-generate-parentheses) |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | java | [Code](Hard\23-merge-k-sorted-lists) |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | java | [Code](Medium\24-swap-nodes-in-pairs) |
