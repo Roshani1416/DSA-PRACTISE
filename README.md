@@ -9,6 +9,7 @@ Auto-synced by leetcode-github-agent.
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | java | [Code](Medium\22-generate-parentheses) |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | java | [Code](Hard\23-merge-k-sorted-lists) |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | java | [Code](Medium\24-swap-nodes-in-pairs) |
+| 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | java | [Code](Medium\39-combination-sum) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | java | [Code](Medium\56-merge-intervals) |
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | Medium | java | [Code](Medium\82-remove-duplicates-from-sorted-list-ii) |
 | 86 | [Partition List](https://leetcode.com/problems/partition-list/) | Medium | java | [Code](Medium\86-partition-list) |

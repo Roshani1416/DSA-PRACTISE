@@ -32,6 +32,14 @@
     "url": "https://leetcode.com/problems/swap-nodes-in-pairs/"
   },
   {
+    "id": "39",
+    "title": "Combination Sum",
+    "difficulty": "Medium",
+    "language": "java",
+    "path": "Medium\\39-combination-sum",
+    "url": "https://leetcode.com/problems/combination-sum/"
+  },
+  {
     "id": "56",
     "title": "Merge Intervals",
     "difficulty": "Medium",
