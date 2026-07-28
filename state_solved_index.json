@@ -64,6 +64,14 @@
     "url": "https://leetcode.com/problems/partition-list/"
   },
   {
+    "id": "100",
+    "title": "Same Tree",
+    "difficulty": "Easy",
+    "language": "java",
+    "path": "Easy\\100-same-tree",
+    "url": "https://leetcode.com/problems/same-tree/"
+  },
+  {
     "id": "125",
     "title": "Valid Palindrome",
     "difficulty": "Easy",
