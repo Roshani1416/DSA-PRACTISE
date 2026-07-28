@@ -72,6 +72,14 @@
     "url": "https://leetcode.com/problems/same-tree/"
   },
   {
+    "id": "101",
+    "title": "Symmetric Tree",
+    "difficulty": "Easy",
+    "language": "java",
+    "path": "Easy\\101-symmetric-tree",
+    "url": "https://leetcode.com/problems/symmetric-tree/"
+  },
+  {
     "id": "125",
     "title": "Valid Palindrome",
     "difficulty": "Easy",
