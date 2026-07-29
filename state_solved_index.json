@@ -88,6 +88,14 @@
     "url": "https://leetcode.com/problems/valid-palindrome/"
   },
   {
+    "id": "235",
+    "title": "Lowest Common Ancestor of a Binary Search Tree",
+    "difficulty": "Medium",
+    "language": "java",
+    "path": "Medium\\235-lowest-common-ancestor-of-a-binary-search-tree",
+    "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/"
+  },
+  {
     "id": "236",
     "title": "Lowest Common Ancestor of a Binary Tree",
     "difficulty": "Medium",
