@@ -24,6 +24,7 @@ Auto-synced by leetcode-github-agent.
 | 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | Medium | java | [Code](Medium\452-minimum-number-of-arrows-to-burst-balloons) |
 | 502 | [IPO](https://leetcode.com/problems/ipo/) | Hard | java | [Code](Hard\502-ipo) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy | java | [Code](Easy\509-fibonacci-number) |
+| 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | Easy | java | [Code](Easy\653-two-sum-iv-input-is-a-bst) |
 | 692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | Medium | java | [Code](Medium\692-top-k-frequent-words) |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy | java | [Code](Easy\1046-last-stone-weight) |
 | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | Medium | java | [Code](Medium\1288-remove-covered-intervals) |

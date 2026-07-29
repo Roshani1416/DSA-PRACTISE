@@ -152,6 +152,14 @@
     "url": "https://leetcode.com/problems/fibonacci-number/"
   },
   {
+    "id": "653",
+    "title": "Two Sum IV - Input is a BST",
+    "difficulty": "Easy",
+    "language": "java",
+    "path": "Easy\\653-two-sum-iv-input-is-a-bst",
+    "url": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/"
+  },
+  {
     "id": "692",
     "title": "Top K Frequent Words",
     "difficulty": "Medium",
