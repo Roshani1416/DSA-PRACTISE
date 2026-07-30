@@ -15,6 +15,7 @@ Auto-synced by leetcode-github-agent.
 | 86 | [Partition List](https://leetcode.com/problems/partition-list/) | Medium | java | [Code](Medium\86-partition-list) |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | java | [Code](Easy\100-same-tree) |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | java | [Code](Easy\101-symmetric-tree) |
+| 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | Easy | java | [Code](Easy\112-path-sum) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | java | [Code](Easy\125-valid-palindrome) |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | java | [Code](Medium\235-lowest-common-ancestor-of-a-binary-search-tree) |
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | java | [Code](Medium\236-lowest-common-ancestor-of-a-binary-tree) |

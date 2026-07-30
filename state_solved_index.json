@@ -80,6 +80,14 @@
     "url": "https://leetcode.com/problems/symmetric-tree/"
   },
   {
+    "id": "112",
+    "title": "Path Sum",
+    "difficulty": "Easy",
+    "language": "java",
+    "path": "Easy\\112-path-sum",
+    "url": "https://leetcode.com/problems/path-sum/"
+  },
+  {
     "id": "125",
     "title": "Valid Palindrome",
     "difficulty": "Easy",
