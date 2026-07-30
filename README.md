@@ -24,6 +24,7 @@ Auto-synced by leetcode-github-agent.
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | java | [Code](Medium\236-lowest-common-ancestor-of-a-binary-tree) |
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | java | [Code](Medium\328-odd-even-linked-list) |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | java | [Code](Medium\347-top-k-frequent-elements) |
+| 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | Easy | java | [Code](Easy\404-sum-of-left-leaves) |
 | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | Medium | java | [Code](Medium\435-non-overlapping-intervals) |
 | 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | Medium | java | [Code](Medium\452-minimum-number-of-arrows-to-burst-balloons) |
 | 502 | [IPO](https://leetcode.com/problems/ipo/) | Hard | java | [Code](Hard\502-ipo) |

@@ -152,6 +152,14 @@
     "url": "https://leetcode.com/problems/top-k-frequent-elements/"
   },
   {
+    "id": "404",
+    "title": "Sum of Left Leaves",
+    "difficulty": "Easy",
+    "language": "java",
+    "path": "Easy\\404-sum-of-left-leaves",
+    "url": "https://leetcode.com/problems/sum-of-left-leaves/"
+  },
+  {
     "id": "435",
     "title": "Non-overlapping Intervals",
     "difficulty": "Medium",
