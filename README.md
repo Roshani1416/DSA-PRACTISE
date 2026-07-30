@@ -19,6 +19,7 @@ Auto-synced by leetcode-github-agent.
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | java | [Code](Easy\110-balanced-binary-tree) |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | Easy | java | [Code](Easy\112-path-sum) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | java | [Code](Easy\125-valid-palindrome) |
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | java | [Code](Easy\226-invert-binary-tree) |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | java | [Code](Medium\235-lowest-common-ancestor-of-a-binary-search-tree) |
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | java | [Code](Medium\236-lowest-common-ancestor-of-a-binary-tree) |
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | java | [Code](Medium\328-odd-even-linked-list) |

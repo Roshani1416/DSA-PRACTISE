@@ -112,6 +112,14 @@
     "url": "https://leetcode.com/problems/valid-palindrome/"
   },
   {
+    "id": "226",
+    "title": "Invert Binary Tree",
+    "difficulty": "Easy",
+    "language": "java",
+    "path": "Easy\\226-invert-binary-tree",
+    "url": "https://leetcode.com/problems/invert-binary-tree/"
+  },
+  {
     "id": "235",
     "title": "Lowest Common Ancestor of a Binary Search Tree",
     "difficulty": "Medium",
