@@ -80,6 +80,14 @@
     "url": "https://leetcode.com/problems/symmetric-tree/"
   },
   {
+    "id": "104",
+    "title": "Maximum Depth of Binary Tree",
+    "difficulty": "Easy",
+    "language": "java",
+    "path": "Easy\\104-maximum-depth-of-binary-tree",
+    "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/"
+  },
+  {
     "id": "112",
     "title": "Path Sum",
     "difficulty": "Easy",
