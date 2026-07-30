@@ -16,6 +16,7 @@ Auto-synced by leetcode-github-agent.
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | java | [Code](Easy\100-same-tree) |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | java | [Code](Easy\101-symmetric-tree) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | java | [Code](Easy\104-maximum-depth-of-binary-tree) |
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | java | [Code](Easy\110-balanced-binary-tree) |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | Easy | java | [Code](Easy\112-path-sum) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | java | [Code](Easy\125-valid-palindrome) |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | java | [Code](Medium\235-lowest-common-ancestor-of-a-binary-search-tree) |
