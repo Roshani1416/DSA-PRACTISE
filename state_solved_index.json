@@ -192,6 +192,14 @@
     "url": "https://leetcode.com/problems/fibonacci-number/"
   },
   {
+    "id": "543",
+    "title": "Diameter of Binary Tree",
+    "difficulty": "Easy",
+    "language": "java",
+    "path": "Easy\\543-diameter-of-binary-tree",
+    "url": "https://leetcode.com/problems/diameter-of-binary-tree/"
+  },
+  {
     "id": "653",
     "title": "Two Sum IV - Input is a BST",
     "difficulty": "Easy",
