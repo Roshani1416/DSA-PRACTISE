@@ -64,6 +64,14 @@
     "url": "https://leetcode.com/problems/partition-list/"
   },
   {
+    "id": "98",
+    "title": "Validate Binary Search Tree",
+    "difficulty": "Medium",
+    "language": "java",
+    "path": "Medium\\98-validate-binary-search-tree",
+    "url": "https://leetcode.com/problems/validate-binary-search-tree/"
+  },
+  {
     "id": "100",
     "title": "Same Tree",
     "difficulty": "Easy",

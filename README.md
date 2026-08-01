@@ -13,6 +13,7 @@ Auto-synced by leetcode-github-agent.
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | java | [Code](Medium\56-merge-intervals) |
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | Medium | java | [Code](Medium\82-remove-duplicates-from-sorted-list-ii) |
 | 86 | [Partition List](https://leetcode.com/problems/partition-list/) | Medium | java | [Code](Medium\86-partition-list) |
+| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | java | [Code](Medium\98-validate-binary-search-tree) |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | java | [Code](Easy\100-same-tree) |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | java | [Code](Easy\101-symmetric-tree) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | java | [Code](Easy\104-maximum-depth-of-binary-tree) |
