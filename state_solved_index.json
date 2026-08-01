@@ -216,6 +216,14 @@
     "url": "https://leetcode.com/problems/top-k-frequent-words/"
   },
   {
+    "id": "700",
+    "title": "Search in a Binary Search Tree",
+    "difficulty": "Easy",
+    "language": "java",
+    "path": "Easy\\700-search-in-a-binary-search-tree",
+    "url": "https://leetcode.com/problems/search-in-a-binary-search-tree/"
+  },
+  {
     "id": "783",
     "title": "Minimum Distance Between BST Nodes",
     "difficulty": "Easy",
