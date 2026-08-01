@@ -32,6 +32,7 @@ Auto-synced by leetcode-github-agent.
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | java | [Code](Easy\543-diameter-of-binary-tree) |
 | 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | Easy | java | [Code](Easy\653-two-sum-iv-input-is-a-bst) |
 | 692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | Medium | java | [Code](Medium\692-top-k-frequent-words) |
+| 783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | Easy | java | [Code](Easy\783-minimum-distance-between-bst-nodes) |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy | java | [Code](Easy\1046-last-stone-weight) |
 | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | Medium | java | [Code](Medium\1288-remove-covered-intervals) |
 | 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy | java | [Code](Easy\2379-minimum-recolors-to-get-k-consecutive-black-blocks) |

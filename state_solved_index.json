@@ -216,6 +216,14 @@
     "url": "https://leetcode.com/problems/top-k-frequent-words/"
   },
   {
+    "id": "783",
+    "title": "Minimum Distance Between BST Nodes",
+    "difficulty": "Easy",
+    "language": "java",
+    "path": "Easy\\783-minimum-distance-between-bst-nodes",
+    "url": "https://leetcode.com/problems/minimum-distance-between-bst-nodes/"
+  },
+  {
     "id": "1046",
     "title": "Last Stone Weight",
     "difficulty": "Easy",
