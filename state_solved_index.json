@@ -104,6 +104,14 @@
     "url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/"
   },
   {
+    "id": "106",
+    "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+    "difficulty": "Medium",
+    "language": "java",
+    "path": "Medium\\106-construct-binary-tree-from-inorder-and-postorder-traversal",
+    "url": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/"
+  },
+  {
     "id": "110",
     "title": "Balanced Binary Tree",
     "difficulty": "Easy",

@@ -18,6 +18,7 @@ Auto-synced by leetcode-github-agent.
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | java | [Code](Easy\101-symmetric-tree) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | java | [Code](Easy\104-maximum-depth-of-binary-tree) |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | java | [Code](Medium\105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium | java | [Code](Medium\106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | java | [Code](Easy\110-balanced-binary-tree) |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | Easy | java | [Code](Easy\112-path-sum) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | java | [Code](Easy\125-valid-palindrome) |
