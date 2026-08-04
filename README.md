@@ -16,6 +16,7 @@ Auto-synced by leetcode-github-agent.
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | java | [Code](Medium\98-validate-binary-search-tree) |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | java | [Code](Easy\100-same-tree) |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | java | [Code](Easy\101-symmetric-tree) |
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | java | [Code](Medium\102-binary-tree-level-order-traversal) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | java | [Code](Easy\104-maximum-depth-of-binary-tree) |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | java | [Code](Medium\105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium | java | [Code](Medium\106-construct-binary-tree-from-inorder-and-postorder-traversal) |

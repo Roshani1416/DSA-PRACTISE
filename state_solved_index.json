@@ -88,6 +88,14 @@
     "url": "https://leetcode.com/problems/symmetric-tree/"
   },
   {
+    "id": "102",
+    "title": "Binary Tree Level Order Traversal",
+    "difficulty": "Medium",
+    "language": "java",
+    "path": "Medium\\102-binary-tree-level-order-traversal",
+    "url": "https://leetcode.com/problems/binary-tree-level-order-traversal/"
+  },
+  {
     "id": "104",
     "title": "Maximum Depth of Binary Tree",
     "difficulty": "Easy",
