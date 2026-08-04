@@ -248,6 +248,14 @@
     "url": "https://leetcode.com/problems/minimum-distance-between-bst-nodes/"
   },
   {
+    "id": "993",
+    "title": "Cousins in Binary Tree",
+    "difficulty": "Easy",
+    "language": "java",
+    "path": "Easy\\993-cousins-in-binary-tree",
+    "url": "https://leetcode.com/problems/cousins-in-binary-tree/"
+  },
+  {
     "id": "1046",
     "title": "Last Stone Weight",
     "difficulty": "Easy",
