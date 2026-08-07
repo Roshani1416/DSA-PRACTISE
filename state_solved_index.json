@@ -152,6 +152,14 @@
     "url": "https://leetcode.com/problems/binary-tree-preorder-traversal/"
   },
   {
+    "id": "200",
+    "title": "Number of Islands",
+    "difficulty": "Medium",
+    "language": "java",
+    "path": "Medium\\200-number-of-islands",
+    "url": "https://leetcode.com/problems/number-of-islands/"
+  },
+  {
     "id": "226",
     "title": "Invert Binary Tree",
     "difficulty": "Easy",
