@@ -280,6 +280,14 @@
     "url": "https://leetcode.com/problems/minimum-distance-between-bst-nodes/"
   },
   {
+    "id": "872",
+    "title": "Leaf-Similar Trees",
+    "difficulty": "Easy",
+    "language": "java",
+    "path": "Easy\\872-leaf-similar-trees",
+    "url": "https://leetcode.com/problems/leaf-similar-trees/"
+  },
+  {
     "id": "993",
     "title": "Cousins in Binary Tree",
     "difficulty": "Easy",
