@@ -288,6 +288,14 @@
     "url": "https://leetcode.com/problems/leaf-similar-trees/"
   },
   {
+    "id": "965",
+    "title": "Univalued Binary Tree",
+    "difficulty": "Easy",
+    "language": "java",
+    "path": "Easy\\965-univalued-binary-tree",
+    "url": "https://leetcode.com/problems/univalued-binary-tree/"
+  },
+  {
     "id": "993",
     "title": "Cousins in Binary Tree",
     "difficulty": "Easy",
