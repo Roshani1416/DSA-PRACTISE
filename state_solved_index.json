@@ -160,6 +160,14 @@
     "url": "https://leetcode.com/problems/invert-binary-tree/"
   },
   {
+    "id": "230",
+    "title": "Kth Smallest Element in a BST",
+    "difficulty": "Medium",
+    "language": "java",
+    "path": "Medium\\230-kth-smallest-element-in-a-bst",
+    "url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/"
+  },
+  {
     "id": "235",
     "title": "Lowest Common Ancestor of a Binary Search Tree",
     "difficulty": "Medium",

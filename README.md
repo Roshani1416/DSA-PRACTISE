@@ -25,6 +25,7 @@ Auto-synced by leetcode-github-agent.
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | java | [Code](Easy\125-valid-palindrome) |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Easy | java | [Code](Easy\144-binary-tree-preorder-traversal) |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | java | [Code](Easy\226-invert-binary-tree) |
+| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | java | [Code](Medium\230-kth-smallest-element-in-a-bst) |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | java | [Code](Medium\235-lowest-common-ancestor-of-a-binary-search-tree) |
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | java | [Code](Medium\236-lowest-common-ancestor-of-a-binary-tree) |
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | java | [Code](Medium\328-odd-even-linked-list) |
