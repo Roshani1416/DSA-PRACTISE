@@ -368,6 +368,14 @@
     "url": "https://leetcode.com/problems/remove-covered-intervals/"
   },
   {
+    "id": "1791",
+    "title": "Find Center of Star Graph",
+    "difficulty": "Easy",
+    "language": "java",
+    "path": "Easy\\1791-find-center-of-star-graph",
+    "url": "https://leetcode.com/problems/find-center-of-star-graph/"
+  },
+  {
     "id": "1971",
     "title": "Find if Path Exists in Graph",
     "difficulty": "Easy",

@@ -51,6 +51,7 @@ Auto-synced by leetcode-github-agent.
 | 997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | Easy | java | [Code](Easy\997-find-the-town-judge) |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy | java | [Code](Easy\1046-last-stone-weight) |
 | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | Medium | java | [Code](Medium\1288-remove-covered-intervals) |
+| 1791 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | Easy | java | [Code](Easy\1791-find-center-of-star-graph) |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | Easy | java | [Code](Easy\1971-find-if-path-exists-in-graph) |
 | 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy | java | [Code](Easy\2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!-- LEETCODE-TABLE-END -->
