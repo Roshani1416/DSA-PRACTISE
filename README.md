@@ -42,6 +42,7 @@ Auto-synced by leetcode-github-agent.
 | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | java | [Code](Easy\700-search-in-a-binary-search-tree) |
 | 783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | Easy | java | [Code](Easy\783-minimum-distance-between-bst-nodes) |
 | 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | Easy | java | [Code](Easy\872-leaf-similar-trees) |
+| 897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | Easy | java | [Code](Easy\897-increasing-order-search-tree) |
 | 965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | Easy | java | [Code](Easy\965-univalued-binary-tree) |
 | 993 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | Easy | java | [Code](Easy\993-cousins-in-binary-tree) |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy | java | [Code](Easy\1046-last-stone-weight) |

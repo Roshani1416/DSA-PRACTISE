@@ -296,6 +296,14 @@
     "url": "https://leetcode.com/problems/leaf-similar-trees/"
   },
   {
+    "id": "897",
+    "title": "Increasing Order Search Tree",
+    "difficulty": "Easy",
+    "language": "java",
+    "path": "Easy\\897-increasing-order-search-tree",
+    "url": "https://leetcode.com/problems/increasing-order-search-tree/"
+  },
+  {
     "id": "965",
     "title": "Univalued Binary Tree",
     "difficulty": "Easy",
