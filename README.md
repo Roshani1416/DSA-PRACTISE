@@ -41,6 +41,7 @@ Auto-synced by leetcode-github-agent.
 | 692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | Medium | java | [Code](Medium\692-top-k-frequent-words) |
 | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | java | [Code](Easy\700-search-in-a-binary-search-tree) |
 | 783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | Easy | java | [Code](Easy\783-minimum-distance-between-bst-nodes) |
+| 785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | Medium | java | [Code](Medium\785-is-graph-bipartite) |
 | 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | Easy | java | [Code](Easy\872-leaf-similar-trees) |
 | 897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | Easy | java | [Code](Easy\897-increasing-order-search-tree) |
 | 965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | Easy | java | [Code](Easy\965-univalued-binary-tree) |

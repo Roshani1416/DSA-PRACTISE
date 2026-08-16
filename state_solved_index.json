@@ -288,6 +288,14 @@
     "url": "https://leetcode.com/problems/minimum-distance-between-bst-nodes/"
   },
   {
+    "id": "785",
+    "title": "Is Graph Bipartite?",
+    "difficulty": "Medium",
+    "language": "java",
+    "path": "Medium\\785-is-graph-bipartite",
+    "url": "https://leetcode.com/problems/is-graph-bipartite/"
+  },
+  {
     "id": "872",
     "title": "Leaf-Similar Trees",
     "difficulty": "Easy",
