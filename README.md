@@ -48,6 +48,7 @@ Auto-synced by leetcode-github-agent.
 | 965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | Easy | java | [Code](Easy\965-univalued-binary-tree) |
 | 993 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | Easy | java | [Code](Easy\993-cousins-in-binary-tree) |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium | java | [Code](Medium\994-rotting-oranges) |
+| 997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | Easy | java | [Code](Easy\997-find-the-town-judge) |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy | java | [Code](Easy\1046-last-stone-weight) |
 | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | Medium | java | [Code](Medium\1288-remove-covered-intervals) |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | Easy | java | [Code](Easy\1971-find-if-path-exists-in-graph) |

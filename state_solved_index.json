@@ -344,6 +344,14 @@
     "url": "https://leetcode.com/problems/rotting-oranges/"
   },
   {
+    "id": "997",
+    "title": "Find the Town Judge",
+    "difficulty": "Easy",
+    "language": "java",
+    "path": "Easy\\997-find-the-town-judge",
+    "url": "https://leetcode.com/problems/find-the-town-judge/"
+  },
+  {
     "id": "1046",
     "title": "Last Stone Weight",
     "difficulty": "Easy",
