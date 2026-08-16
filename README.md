@@ -45,6 +45,7 @@ Auto-synced by leetcode-github-agent.
 | 897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | Easy | java | [Code](Easy\897-increasing-order-search-tree) |
 | 965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | Easy | java | [Code](Easy\965-univalued-binary-tree) |
 | 993 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | Easy | java | [Code](Easy\993-cousins-in-binary-tree) |
+| 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium | java | [Code](Medium\994-rotting-oranges) |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy | java | [Code](Easy\1046-last-stone-weight) |
 | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | Medium | java | [Code](Medium\1288-remove-covered-intervals) |
 | 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy | java | [Code](Easy\2379-minimum-recolors-to-get-k-consecutive-black-blocks) |

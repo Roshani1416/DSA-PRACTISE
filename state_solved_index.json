@@ -320,6 +320,14 @@
     "url": "https://leetcode.com/problems/cousins-in-binary-tree/"
   },
   {
+    "id": "994",
+    "title": "Rotting Oranges",
+    "difficulty": "Medium",
+    "language": "java",
+    "path": "Medium\\994-rotting-oranges",
+    "url": "https://leetcode.com/problems/rotting-oranges/"
+  },
+  {
     "id": "1046",
     "title": "Last Stone Weight",
     "difficulty": "Easy",
