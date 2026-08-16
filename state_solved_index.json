@@ -344,6 +344,14 @@
     "url": "https://leetcode.com/problems/remove-covered-intervals/"
   },
   {
+    "id": "1971",
+    "title": "Find if Path Exists in Graph",
+    "difficulty": "Easy",
+    "language": "java",
+    "path": "Easy\\1971-find-if-path-exists-in-graph",
+    "url": "https://leetcode.com/problems/find-if-path-exists-in-graph/"
+  },
+  {
     "id": "2379",
     "title": "Minimum Recolors to Get K Consecutive Black Blocks",
     "difficulty": "Easy",
