@@ -144,6 +144,14 @@
     "url": "https://leetcode.com/problems/valid-palindrome/"
   },
   {
+    "id": "130",
+    "title": "Surrounded Regions",
+    "difficulty": "Medium",
+    "language": "java",
+    "path": "Medium\\130-surrounded-regions",
+    "url": "https://leetcode.com/problems/surrounded-regions/"
+  },
+  {
     "id": "144",
     "title": "Binary Tree Preorder Traversal",
     "difficulty": "Easy",

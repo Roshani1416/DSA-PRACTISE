@@ -23,6 +23,7 @@ Auto-synced by leetcode-github-agent.
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | java | [Code](Easy\110-balanced-binary-tree) |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | Easy | java | [Code](Easy\112-path-sum) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | java | [Code](Easy\125-valid-palindrome) |
+| 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | Medium | java | [Code](Medium\130-surrounded-regions) |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Easy | java | [Code](Easy\144-binary-tree-preorder-traversal) |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | java | [Code](Medium\200-number-of-islands) |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | java | [Code](Easy\226-invert-binary-tree) |
