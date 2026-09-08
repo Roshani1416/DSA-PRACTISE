@@ -144,6 +144,14 @@
     "url": "https://leetcode.com/problems/valid-palindrome/"
   },
   {
+    "id": "127",
+    "title": "Word Ladder",
+    "difficulty": "Hard",
+    "language": "java",
+    "path": "Hard\\127-word-ladder",
+    "url": "https://leetcode.com/problems/word-ladder/"
+  },
+  {
     "id": "130",
     "title": "Surrounded Regions",
     "difficulty": "Medium",
