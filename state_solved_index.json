@@ -248,6 +248,14 @@
     "url": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/"
   },
   {
+    "id": "463",
+    "title": "Island Perimeter",
+    "difficulty": "Easy",
+    "language": "java",
+    "path": "Easy\\463-island-perimeter",
+    "url": "https://leetcode.com/problems/island-perimeter/"
+  },
+  {
     "id": "502",
     "title": "IPO",
     "difficulty": "Hard",
