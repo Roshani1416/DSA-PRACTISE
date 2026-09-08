@@ -296,6 +296,14 @@
     "url": "https://leetcode.com/problems/flood-fill/"
   },
   {
+    "id": "743",
+    "title": "Network Delay Time",
+    "difficulty": "Medium",
+    "language": "java",
+    "path": "Medium\\743-network-delay-time",
+    "url": "https://leetcode.com/problems/network-delay-time/"
+  },
+  {
     "id": "783",
     "title": "Minimum Distance Between BST Nodes",
     "difficulty": "Easy",
