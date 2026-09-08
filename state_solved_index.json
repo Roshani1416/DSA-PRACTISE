@@ -304,6 +304,14 @@
     "url": "https://leetcode.com/problems/network-delay-time/"
   },
   {
+    "id": "778",
+    "title": "Swim in Rising Water",
+    "difficulty": "Hard",
+    "language": "java",
+    "path": "Hard\\778-swim-in-rising-water",
+    "url": "https://leetcode.com/problems/swim-in-rising-water/"
+  },
+  {
     "id": "783",
     "title": "Minimum Distance Between BST Nodes",
     "difficulty": "Easy",

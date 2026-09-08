@@ -43,6 +43,7 @@ Auto-synced by leetcode-github-agent.
 | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | java | [Code](Easy\700-search-in-a-binary-search-tree) |
 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | Easy | java | [Code](Easy\733-flood-fill) |
 | 743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | Medium | java | [Code](Medium\743-network-delay-time) |
+| 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | java | [Code](Hard\778-swim-in-rising-water) |
 | 783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | Easy | java | [Code](Easy\783-minimum-distance-between-bst-nodes) |
 | 785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | Medium | java | [Code](Medium\785-is-graph-bipartite) |
 | 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | Easy | java | [Code](Easy\872-leaf-similar-trees) |
