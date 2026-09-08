@@ -328,6 +328,14 @@
     "url": "https://leetcode.com/problems/is-graph-bipartite/"
   },
   {
+    "id": "787",
+    "title": "Cheapest Flights Within K Stops",
+    "difficulty": "Medium",
+    "language": "java",
+    "path": "Medium\\787-cheapest-flights-within-k-stops",
+    "url": "https://leetcode.com/problems/cheapest-flights-within-k-stops/"
+  },
+  {
     "id": "872",
     "title": "Leaf-Similar Trees",
     "difficulty": "Easy",
