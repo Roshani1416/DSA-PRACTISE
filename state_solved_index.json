@@ -392,6 +392,14 @@
     "url": "https://leetcode.com/problems/remove-covered-intervals/"
   },
   {
+    "id": "1584",
+    "title": "Min Cost to Connect All Points",
+    "difficulty": "Medium",
+    "language": "java",
+    "path": "Medium\\1584-min-cost-to-connect-all-points",
+    "url": "https://leetcode.com/problems/min-cost-to-connect-all-points/"
+  },
+  {
     "id": "1631",
     "title": "Path With Minimum Effort",
     "difficulty": "Medium",
