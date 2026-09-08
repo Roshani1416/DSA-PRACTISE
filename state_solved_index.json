@@ -344,6 +344,14 @@
     "url": "https://leetcode.com/problems/cheapest-flights-within-k-stops/"
   },
   {
+    "id": "841",
+    "title": "Keys and Rooms",
+    "difficulty": "Medium",
+    "language": "java",
+    "path": "Medium\\841-keys-and-rooms",
+    "url": "https://leetcode.com/problems/keys-and-rooms/"
+  },
+  {
     "id": "872",
     "title": "Leaf-Similar Trees",
     "difficulty": "Easy",
