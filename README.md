@@ -40,6 +40,7 @@ Auto-synced by leetcode-github-agent.
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy | java | [Code](Easy\509-fibonacci-number) |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | java | [Code](Easy\543-diameter-of-binary-tree) |
 | 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | Easy | java | [Code](Easy\653-two-sum-iv-input-is-a-bst) |
+| 690 | [Employee Importance](https://leetcode.com/problems/employee-importance/) | Medium | java | [Code](Medium\690-employee-importance) |
 | 692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | Medium | java | [Code](Medium\692-top-k-frequent-words) |
 | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | java | [Code](Easy\700-search-in-a-binary-search-tree) |
 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | Easy | java | [Code](Easy\733-flood-fill) |

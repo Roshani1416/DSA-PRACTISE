@@ -280,6 +280,14 @@
     "url": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/"
   },
   {
+    "id": "690",
+    "title": "Employee Importance",
+    "difficulty": "Medium",
+    "language": "java",
+    "path": "Medium\\690-employee-importance",
+    "url": "https://leetcode.com/problems/employee-importance/"
+  },
+  {
     "id": "692",
     "title": "Top K Frequent Words",
     "difficulty": "Medium",
