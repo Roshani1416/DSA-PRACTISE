@@ -384,6 +384,14 @@
     "url": "https://leetcode.com/problems/remove-covered-intervals/"
   },
   {
+    "id": "1631",
+    "title": "Path With Minimum Effort",
+    "difficulty": "Medium",
+    "language": "java",
+    "path": "Medium\\1631-path-with-minimum-effort",
+    "url": "https://leetcode.com/problems/path-with-minimum-effort/"
+  },
+  {
     "id": "1791",
     "title": "Find Center of Star Graph",
     "difficulty": "Easy",
