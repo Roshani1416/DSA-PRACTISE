@@ -54,6 +54,7 @@ Auto-synced by leetcode-github-agent.
 | 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | Medium | java | [Code](Medium\841-keys-and-rooms) |
 | 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | Easy | java | [Code](Easy\872-leaf-similar-trees) |
 | 897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | Easy | java | [Code](Easy\897-increasing-order-search-tree) |
+| 918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Medium | java | [Code](Medium\918-maximum-sum-circular-subarray) |
 | 965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | Easy | java | [Code](Easy\965-univalued-binary-tree) |
 | 993 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | Easy | java | [Code](Easy\993-cousins-in-binary-tree) |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium | java | [Code](Medium\994-rotting-oranges) |

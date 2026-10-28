@@ -392,6 +392,14 @@
     "url": "https://leetcode.com/problems/increasing-order-search-tree/"
   },
   {
+    "id": "918",
+    "title": "Maximum Sum Circular Subarray",
+    "difficulty": "Medium",
+    "language": "java",
+    "path": "Medium\\918-maximum-sum-circular-subarray",
+    "url": "https://leetcode.com/problems/maximum-sum-circular-subarray/"
+  },
+  {
     "id": "965",
     "title": "Univalued Binary Tree",
     "difficulty": "Easy",
