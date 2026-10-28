@@ -440,6 +440,14 @@
     "url": "https://leetcode.com/problems/last-stone-weight/"
   },
   {
+    "id": "1191",
+    "title": "K-Concatenation Maximum Sum",
+    "difficulty": "Medium",
+    "language": "java",
+    "path": "Medium\\1191-k-concatenation-maximum-sum",
+    "url": "https://leetcode.com/problems/k-concatenation-maximum-sum/"
+  },
+  {
     "id": "1288",
     "title": "Remove Covered Intervals",
     "difficulty": "Medium",

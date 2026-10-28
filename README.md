@@ -60,6 +60,7 @@ Auto-synced by leetcode-github-agent.
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium | java | [Code](Medium\994-rotting-oranges) |
 | 997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | Easy | java | [Code](Easy\997-find-the-town-judge) |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy | java | [Code](Easy\1046-last-stone-weight) |
+| 1191 | [K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum/) | Medium | java | [Code](Medium\1191-k-concatenation-maximum-sum) |
 | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | Medium | java | [Code](Medium\1288-remove-covered-intervals) |
 | 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | Medium | java | [Code](Medium\1306-jump-game-iii) |
 | 1584 | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | Medium | java | [Code](Medium\1584-min-cost-to-connect-all-points) |
