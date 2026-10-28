@@ -464,6 +464,14 @@
     "url": "https://leetcode.com/problems/jump-game-iii/"
   },
   {
+    "id": "1480",
+    "title": "Running Sum of 1d Array",
+    "difficulty": "Easy",
+    "language": "java",
+    "path": "Easy\\1480-running-sum-of-1d-array",
+    "url": "https://leetcode.com/problems/running-sum-of-1d-array/"
+  },
+  {
     "id": "1546",
     "title": "Maximum Number of Non-Overlapping Subarrays With Sum Equals Target",
     "difficulty": "Medium",
