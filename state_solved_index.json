@@ -486,5 +486,13 @@
     "language": "java",
     "path": "Easy\\2379-minimum-recolors-to-get-k-consecutive-black-blocks",
     "url": "https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/"
+  },
+  {
+    "id": "2406",
+    "title": "Divide Intervals Into Minimum Number of Groups",
+    "difficulty": "Medium",
+    "language": "java",
+    "path": "Medium\\2406-divide-intervals-into-minimum-number-of-groups",
+    "url": "https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/"
   }
 ]

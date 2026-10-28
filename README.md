@@ -66,4 +66,5 @@ Auto-synced by leetcode-github-agent.
 | 1791 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | Easy | java | [Code](Easy\1791-find-center-of-star-graph) |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | Easy | java | [Code](Easy\1971-find-if-path-exists-in-graph) |
 | 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy | java | [Code](Easy\2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| 2406 | [Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/) | Medium | java | [Code](Medium\2406-divide-intervals-into-minimum-number-of-groups) |
 <!-- LEETCODE-TABLE-END -->
