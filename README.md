@@ -63,6 +63,7 @@ Auto-synced by leetcode-github-agent.
 | 1191 | [K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum/) | Medium | java | [Code](Medium\1191-k-concatenation-maximum-sum) |
 | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | Medium | java | [Code](Medium\1288-remove-covered-intervals) |
 | 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | Medium | java | [Code](Medium\1306-jump-game-iii) |
+| 1546 | [Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | Medium | java | [Code](Medium\1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | 1584 | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | Medium | java | [Code](Medium\1584-min-cost-to-connect-all-points) |
 | 1631 | [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | Medium | java | [Code](Medium\1631-path-with-minimum-effort) |
 | 1791 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | Easy | java | [Code](Easy\1791-find-center-of-star-graph) |

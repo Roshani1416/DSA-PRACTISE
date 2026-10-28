@@ -464,6 +464,14 @@
     "url": "https://leetcode.com/problems/jump-game-iii/"
   },
   {
+    "id": "1546",
+    "title": "Maximum Number of Non-Overlapping Subarrays With Sum Equals Target",
+    "difficulty": "Medium",
+    "language": "java",
+    "path": "Medium\\1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target",
+    "url": "https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/"
+  },
+  {
     "id": "1584",
     "title": "Min Cost to Connect All Points",
     "difficulty": "Medium",
