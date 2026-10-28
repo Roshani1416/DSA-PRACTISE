@@ -496,6 +496,14 @@
     "url": "https://leetcode.com/problems/path-with-minimum-effort/"
   },
   {
+    "id": "1732",
+    "title": "Find the Highest Altitude",
+    "difficulty": "Easy",
+    "language": "java",
+    "path": "Easy\\1732-find-the-highest-altitude",
+    "url": "https://leetcode.com/problems/find-the-highest-altitude/"
+  },
+  {
     "id": "1791",
     "title": "Find Center of Star Graph",
     "difficulty": "Easy",

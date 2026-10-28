@@ -67,6 +67,7 @@ Auto-synced by leetcode-github-agent.
 | 1546 | [Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | Medium | java | [Code](Medium\1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | 1584 | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | Medium | java | [Code](Medium\1584-min-cost-to-connect-all-points) |
 | 1631 | [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | Medium | java | [Code](Medium\1631-path-with-minimum-effort) |
+| 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Easy | java | [Code](Easy\1732-find-the-highest-altitude) |
 | 1791 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | Easy | java | [Code](Easy\1791-find-center-of-star-graph) |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | Easy | java | [Code](Easy\1971-find-if-path-exists-in-graph) |
 | 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy | java | [Code](Easy\2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
