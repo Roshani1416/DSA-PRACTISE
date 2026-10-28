@@ -272,6 +272,14 @@
     "url": "https://leetcode.com/problems/fibonacci-number/"
   },
   {
+    "id": "523",
+    "title": "Continuous Subarray Sum",
+    "difficulty": "Medium",
+    "language": "java",
+    "path": "Medium\\523-continuous-subarray-sum",
+    "url": "https://leetcode.com/problems/continuous-subarray-sum/"
+  },
+  {
     "id": "543",
     "title": "Diameter of Binary Tree",
     "difficulty": "Easy",

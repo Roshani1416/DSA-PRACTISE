@@ -39,6 +39,7 @@ Auto-synced by leetcode-github-agent.
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | Easy | java | [Code](Easy\463-island-perimeter) |
 | 502 | [IPO](https://leetcode.com/problems/ipo/) | Hard | java | [Code](Hard\502-ipo) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy | java | [Code](Easy\509-fibonacci-number) |
+| 523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | Medium | java | [Code](Medium\523-continuous-subarray-sum) |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | java | [Code](Easy\543-diameter-of-binary-tree) |
 | 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | Easy | java | [Code](Easy\653-two-sum-iv-input-is-a-bst) |
 | 690 | [Employee Importance](https://leetcode.com/problems/employee-importance/) | Medium | java | [Code](Medium\690-employee-importance) |
